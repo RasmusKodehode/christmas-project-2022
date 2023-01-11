@@ -1,3 +1,22 @@
+The page will include a timer counting down to christmas, as well as an
+input field where the user can input a message that will be saved to
+localStorage and displayed on the page with a timestamp.
+
+The page will contain elements including a statement describing whether
+it's christmas right now or not (or if it's far away or not), it will also
+contain a timer counting down to the next christmas.
+In addition it will include a text input element with a submit-button where 
+the user can write a message and submit it, and messages will be displayed
+underneath in cards.
+
+The point of the page is to give people who love christmas a space to hang
+out and appreciate it all year round, whilst waiting for the next christmas
+to come around.
+
+The target is to start as early as possible, in order to have as much time
+as possible to figure all the different elements out, and to allow time to
+fix bugs or errors that will inevitably come along.
+
 Schedule:
 23.12.22
 Create timeframe
