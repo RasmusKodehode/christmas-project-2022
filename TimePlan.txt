@@ -1,0 +1,29 @@
+Schedule:
+23.12.22
+Create timeframe
+create design
+set up project
+
+29.12.22
+started coding countdown
+
+30.12.22
+finished coding countdown
+
+31.12.22
+created christmas statement based on time of year
+
+03.01.23
+start work on greeting list
+
+04.01.23
+continue on greeting list, functionality added
+
+06.01.23
+added timestamp to greetings
+
+10.01.23
+saved to localStorage, added styling
+
+11.01.23
+completed styling, finishing touches
